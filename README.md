@@ -1,81 +1,27 @@
-<<<<<<< HEAD
-# Retro Portfolio 🕹️  
+# Portofolio Web
 
-**Proyek Retro Portfolio** adalah template portofolio siap pakai dengan gaya retro, dibuat khusus untuk peserta bootcamp **VS Code by Numen**.  
-*Template ini sudah 100% jadi — tinggal diunduh dan disesuaikan!*  
+Ini adalah proyek portofolio web pribadi yang dibuat untuk menampilkan karya dan proyek-proyek saya. Web ini dibangun menggunakan HTML, CSS, dan JavaScript untuk memberikan pengalaman pengguna yang menarik dan responsif.
 
----
+## Deskripsi
 
-## 🎁 Cara Mendapatkan Proyek Ini  
-### **Untuk Semua Peserta**:  
+Portofolio ini mencakup berbagai proyek yang saya kerjakan, mulai dari aplikasi web hingga proyek pengembangan perangkat keras. Desainnya terinspirasi oleh gaya retro dan modern, dengan tampilan dan nuansa yang simpel namun elegan.
 
-#### **Option 1: Unduh Langsung (Tanpa Git/GitHub)**  
-1. Klik tombol **`Code`** (hijau) di bagian atas repositori ini.  
-2. Pilih **`Download ZIP`**.  
-3. Ekstrak file ZIP ke folder lokal Anda.  
+Fitur-fitur utama yang ada pada web ini antara lain:
+- **Desain Responsif**: Tampilan web yang dapat menyesuaikan dengan berbagai ukuran layar perangkat.
+- **Interaktivitas**: Menggunakan JavaScript untuk efek dinamis dan interaktif pada elemen-elemen penting.
+- **Bagian Proyek**: Menampilkan berbagai proyek dengan deskripsi, teknologi yang digunakan, dan link menuju proyek terkait.
+- **Bagian Kontak**: Formulir untuk menghubungi saya langsung melalui email.
 
-#### **Option 2: Clone dengan Git (Jika Terinstal)**  
-```bash
-git clone https://github.com/numen111104/retro-portofolio.git
-```
+## Teknologi yang Digunakan
 
----
+- **HTML5**: Untuk struktur dasar halaman web.
+- **CSS3**: Untuk desain dan tata letak yang responsif.
+- **JavaScript**: Untuk interaktivitas dan efek dinamis.
+- **Git & GitHub**: Untuk kontrol versi dan hosting proyek.
+- **Tailwind CSS** (Opsional): Untuk membuat desain lebih cepat dan efisien.
 
-## 🚀 Cara Menggunakan  
-### **Tanpa VSCode/GitHub** (Hanya Editor Teks Biasa):  
-1. Buka folder proyek di editor teks apa pun (*Notepad++, Sublime Text, dll.*).  
-2. Edit file:  
-   - `index.html` → Sesuaikan konten portofolio Anda.  
-   - `style.css` → Ubah warna/font di bagian `:root`.  
-3. Simpan file, lalu buka `index.html` di browser untuk melihat hasilnya.  
+## Fitur
 
-### **Dengan VSCode (Rekomendasi)**:  
-1. Buka folder proyek di VSCode.  
-2. Gunakan ekstensi **Live Server** untuk menjalankan proyek secara real-time.  
-
----
-
-## 👨‍💻 Daftar Peserta Bootcamp  
-| Nama                             |  
-|----------------------------------|  
-| Almerullah Nabil Patu            |
-| Athallah Dimas Nugarin           |
-| Daffa Aghna Hafizha              |
-| Fadhil Atha Zharif               |
-| Guevara Nuthqi Adie Artha        |
-| Hafiz                            |
-| Ihsan                            |
-| Lubna Zahroh                     |
-| Muhammad Hanifullah Al Islam     |
-| Muhammad Putra Tegar             |
-| Muhammad Rafli Alzakzaky         |
-| Naufal Syafiq Wilfa              |
-| Najla Haura Mumtazah             |
-| Rian Fikri Hafiz                 |
-| Risha Adzkia Putri               |
-| Sulthan Aziz Suwadana            |
-| Unaisah                          |
-| Windy Widyanti                   |
-| Zahraa Hartadi                   |
-| Zaahiroh                         |
-| Bunga Reswara Ovilza             |
-
----
-
-## 💡 Tips Profesional  
-- Ganti placeholder gambar di folder `/assets` dengan foto/foto proyek Anda.  
-- Update metadata di `index.html` (judul, deskripsi, favicon) untuk SEO.  
-- Hosting gratis di [Netlify](https://www.netlify.com/) atau [Vercel](https://vercel.com/) dengan drag-and-drop folder proyek.  
-
----
-
-## 📜 Lisensi  
-Proyek ini terbuka untuk semua peserta bootcamp **VS Code by Numen** di bawah lisensi [MIT](LICENSE).  
-
----  
-
-✨ **Dibuat dengan cinta oleh Nu'man Nasyar MZ untuk para peserta bootcamp!** ✨  
-=======
-# portofolioku
-protofolio ku
->>>>>>> 8520967b9d4f76c6097045045150f79e3c2173f6
+- **Beranda**: Halaman utama yang memperkenalkan diri saya dan menyediakan navigasi ke bagian lainnya.
+- **Tentang Saya**: Menyediakan informasi tentang latar belakang, keterampilan, dan pengalaman saya.
+- **Proyek**: Menampilkan proyek
