@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Retro Portfolio 🕹️  
 
 **Proyek Retro Portfolio** adalah template portofolio siap pakai dengan gaya retro, dibuat khusus untuk peserta bootcamp **VS Code by Numen**.  
@@ -74,3 +75,7 @@ Proyek ini terbuka untuk semua peserta bootcamp **VS Code by Numen** di bawah li
 ---  
 
 ✨ **Dibuat dengan cinta oleh Nu'man Nasyar MZ untuk para peserta bootcamp!** ✨  
+=======
+# portofolioku
+protofolio ku
+>>>>>>> 8520967b9d4f76c6097045045150f79e3c2173f6
